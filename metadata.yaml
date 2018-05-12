@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6767
     wikipedia: http://en.wikipedia.org/wiki/Bahá'u'lláh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16986#The-Seven-Valleys-and-the-Four-Valleys
 gutenberg_bookshelf: Bahá'í Faith
 gutenberg_issued: '2005-11-02'
 gutenberg_type: Text
